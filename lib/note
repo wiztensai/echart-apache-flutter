@@ -1,0 +1,18 @@
+https://echarts.apache.org/en/option.html#xAxis
+https://echarts.apache.org/examples/en/index.html#chart-type-scatter
+https://echarts.apache.org/examples/en/editor.html?c=scatter-nutrients
+https://echarts.apache.org/examples/data/asset/data/nutrients.json
+
+tutorial:
+https://apache.github.io/echarts-handbook/en/how-to/chart-types/scatter/basic-scatter/
+
+https://stackoverflow.com/questions/70809064/apache-echarts-not-showing-visualmap-pieces-on-time-xaxis
+https://stackoverflow.com/questions/49763076/using-time-type-on-x-axis-of-echarts-for-timeseries-graphing
+
+// owner echart recommend graphic/dart echart
+https://github.com/entronad/flutter_echarts/issues/134
+
+// echart versi dart
+https://medium.com/analytics-vidhya/the-versatility-of-the-grammar-of-graphics-d1366760424d
+https://github.com/entronad/graphic/issues/42
+https://github.com/entronad/graphic
