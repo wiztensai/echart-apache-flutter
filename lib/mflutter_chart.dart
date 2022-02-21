@@ -71,7 +71,7 @@ class _FlutterChart extends State<FlutterChart> {
       yAxis: {
         name: 'Harga',
         type: 'value',
-        scale: true,
+        scale: false,
         axisLabel:{
           formatter: function (value, index) {            
             return value/1000000;
