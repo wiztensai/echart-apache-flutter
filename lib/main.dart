@@ -2,6 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:tes_djubli/mflutter_chart.dart';
+import 'package:tes_djubli/mgraphic_chart.dart';
 
 void main() {
   runApp(MyApp());
